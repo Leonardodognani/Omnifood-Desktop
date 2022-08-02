@@ -31,7 +31,7 @@
     list-style:none;
     display: flex;
     align-items: center;
-    gap: 3.2rem;
+    gap: 4.8rem;
 }
 
 .main-nav-link:link,
@@ -72,6 +72,7 @@
     background-color: #fadbc1;
     padding: 4.8rem 0 9.6rem 0;
 }
+
 
 .hero {
     max-width: 130rem;
