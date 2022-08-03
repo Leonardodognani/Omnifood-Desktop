@@ -16,6 +16,7 @@ Default: 1
 Small: 1.05
 Medium: 1.2
 Paragraph default: 1.6
+Large: 1.8
 
 
 -Letter spacing
@@ -77,6 +78,7 @@ Medium: 11px
 
 html {
     font-size: 62.5%;
+    overflow-x: hidden;
 }
 
 body {
@@ -84,6 +86,10 @@ body {
     line-height: 1;
     font-weight: 400;
     color: #555;
+
+    /* Only works if there is nothing absolutely
+    positioned in relation to body */
+    overflow-x: hidden;
 }
 
 /***********************************************/
@@ -253,6 +259,7 @@ body {
     font-size: 1.8rem;
     display: flex;
     gap: 1.6rem;
+    line-height: 1.2;
 }
 
 .list-icon {
