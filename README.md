@@ -8,7 +8,7 @@
 
 
 ### The link to see the page is in the Netlify:
-# <a href="www.omnifood-leo.netlify.app">Omnifood Project</a>
+# ["Omnifood Project"](www.omnifood-leo.netlify.app)
 
 ##
 
