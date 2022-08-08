@@ -1,3 +1,21 @@
+# Omnifood - Finish Course Project
+## project from Udemy course
+
+### This is a finish project from the course "Build Responsive Real-World Websites with HTML and CSS" with 37.5h, from Prof. Jonas Schmedtmann, in the Udemy platform.
+
+#### The project is an example of a responsive real-world website using HTML, CSS and a little of JS. 
+#### All the concepts are guided and explained throughout the course.
+
+
+### The link to see the page is in the Netlify:
+## omnifood-leo.netlify.app
+
+##
+
+# About the project's content:
+
+##
+
 # Omnifood
 
 ## About Omnifood
